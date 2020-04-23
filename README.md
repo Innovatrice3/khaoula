@@ -1,1 +1,1 @@
-<h1>Bienvennue dans notre site</h1>
+<h1 color="blue">Bienvennue dans notre site</h1>
